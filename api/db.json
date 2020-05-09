@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Hola",
+      "body": "Como estas?",
+      "id": 12
+    },
+    {
+      "title": "Hola 3",
+      "body": "Hola como te va 3",
+      "id": 13
+    }
+  ]
+}
